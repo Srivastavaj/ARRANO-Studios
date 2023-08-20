@@ -8,7 +8,7 @@
   }
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 5120px) {
   #desktop-nav {
     display: none;
   }
